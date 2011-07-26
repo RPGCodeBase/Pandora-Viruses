@@ -4,3 +4,7 @@ Game of Life.
 Copyright (c) 2009 by Alexey Fedoseev
 aleksey@fedoseev.net
 http://noon22.ru
+
+
+rgplot/* and gnuplot.rb are written by Gordon James Miller and is distributed under the BSD-like license.
+
