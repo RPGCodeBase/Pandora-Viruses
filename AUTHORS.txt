@@ -1,0 +1,6 @@
+Padora-Viruses - A simple biological simulator based on the idea of Conway's
+Game of Life.
+
+Copyright (c) 2009 by Alexey Fedoseev
+aleksey@fedoseev.net
+http://noon22.ru
